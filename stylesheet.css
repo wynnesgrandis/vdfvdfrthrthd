@@ -1,0 +1,63 @@
+body {
+  font-family: "Garamond";
+}
+
+a {
+  list-style: none;
+  font-size:19px;
+  float: right;
+  padding: 40px 50px;
+  color: #bba187;
+}
+
+.header {
+  background-color: #fae4cc;
+  height: 100px;
+  font-size: 50px;
+}
+.header-logo{
+  font-size: 36px;
+  float: left;
+  color: #bba187;
+  padding: 25px 50px;
+  font-weight: bolder;
+}
+a:hover{
+  background-color: #ebd4b4;
+  transition: 0.5s;
+  cursor: pointer;
+
+}
+
+.main {
+background-color: #ebc1a7;
+  height: 600px;
+}
+
+.main-text h1{
+  font-size: 60px;
+  letter-spacing: 5px;
+  color: white;
+  text-align: center;
+  opacity: 0.8;
+  margin-top: 50px;
+
+}
+.main-text p{
+  text-align: center;
+  color: white;
+}
+.heading{
+  background-color: #ebdac7;
+  color: white;
+  text-align: center;
+}
+
+.product-list hr{
+  color: #bba187;
+}
+
+.footer {
+  background-color: #ebd4b4;
+  height: 270px;
+}
